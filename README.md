@@ -1,6 +1,6 @@
-## Introduction 
+## Introducing Myself
 
-
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/08d07430-8afe-41aa-8051-faf5c762a019" />
 
 <!--
 **Joshua-Godby/Joshua-Godby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
